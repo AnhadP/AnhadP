@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Anhad Pandit this side. 
+
+Full Stack Developer | React.js | Node.js | React Native  
+
 <!--
 **AnhadP/AnhadP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
