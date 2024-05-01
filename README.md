@@ -2,7 +2,10 @@
 
 ## Anhad Pandit this side. 
 
-Full Stack Developer | React.js | Node.js | React Native  
+Full Stack Developer | React.js | Node.js | React Native
+
+![React-icon svg](https://github.com/AnhadP/AnhadP/assets/109407592/314a2a2c-0e93-496c-862d-56d719ba29a1)
+
 
 <!--
 **AnhadP/AnhadP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
