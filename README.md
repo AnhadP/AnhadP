@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Anhad Pandit this side. 
+## Anhad Pandit this side. 
 
 Full Stack Developer | React.js | Node.js | React Native  
 
